@@ -33,7 +33,7 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="about_images wow slideInRight">
-						<img src="assets/image/about_img-2.jpg" width="100%" alt="silder images" title="silder images">
+						<img src="assets/home/image/about_img-2.jpg" width="100%" alt="silder images" title="silder images">
 					</div>
 				</div>
 			</div>
@@ -95,7 +95,7 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Kundli Dosha</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -104,7 +104,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated" ><a href="full_services_page.html">Personal Consultation</a></h4>
 						<p class="wow fadeInDown animated" >Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -113,7 +113,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Face Reading</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -122,7 +122,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Face Reading</a></h4>
 						<p class="wow fadeInDown animated" >Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -131,7 +131,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Kundli Dosha</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -140,7 +140,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated" ><a href="full_services_page.html">Personal Consultation</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -163,7 +163,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/1.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/1.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -174,7 +174,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/2.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/2.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -185,7 +185,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/3.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/3.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -196,7 +196,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/4.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/4.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>

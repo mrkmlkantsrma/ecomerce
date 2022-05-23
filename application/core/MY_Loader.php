@@ -26,14 +26,14 @@ class MY_Loader extends MX_Loader {
     {
          if($return):
             $content  = $this->view('admin/templates/header', $vars, $return);
-            $content  = $this->view('admin/templates/sidebar', $vars, $return);
+            // $content  = $this->view('admin/templates/sidebar', $vars, $return);
             $content .= $this->view($template_name, $vars, $return);
             $content .= $this->view('admin/templates/footer', $vars, $return);
 
             return $content;
         else:
             $this->view('admin/templates/header', $vars);
-            $this->view('admin/templates/sidebar', $vars);
+            // $this->view('admin/templates/sidebar', $vars);
             $this->view($template_name, $vars);
             $this->view('admin/templates/footer', $vars);
         endif;

@@ -1,0 +1,105 @@
+.go-order, #shopping-cart .go-checkout {
+    float: none;
+}
+.panel-default>.panel-heading {
+    color: #333;
+     background-color: #fff; 
+    border: 0px;
+}
+.panel-title{
+    float:left;
+    padding:10px;
+}
+/* .same{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+} */
+.panel-default {
+    border-color: #ddd;
+    border: 0px;
+    box-shadow:0 0px 0px rgb(0 0 0 / 5%)!important;
+}
+.panel-body {
+    padding: 15px 0px;
+}
+#btnContactUs {
+    border-radius: 0;
+    color: #39b4c4;
+    background-color: #fff!important;
+    border: 1px solid #fff;
+    padding: 10px 0px;
+    font-size: 15px;
+}
+
+#payment-form{
+    margin-top:-23px;
+    margin-left:-15px;
+    margin-right:-15px;
+}
+#payment-form .form-group{
+    
+}
+
+.checkout-page .body {
+    padding-bottom: 15px;
+}
+
+.checkout-page .about-contact .mission {
+    padding-bottom: 40px;
+}
+.checkout-form h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    text-align: center;
+}
+/* .checkout-form .shipping-checkbox h3 {
+    width:50%; float:left;
+} */
+.checkout-form .shipping-checkbox label {
+    margin: 0;
+    font-weight: 400;
+    color: #000; 
+}
+ .checkout-form .shipping-checkbox .checkout-same{
+    text-align: center;
+}
+.checkout-page #submit.all_test_btn {
+    margin-top: 38px;
+}
+
+@media screen and (max-width: 600px) {
+    
+    .checkout-page .mission h2, .checkout-page form h3 {
+        font-size: 24px !important;
+    }
+    .checkout-form .shipping-checkbox {
+        align-content: center;
+        align-items: stretch;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .checkout-form .shipping-checkbox .same {
+        width:100%;
+        justify-content: flex-start; 
+        margin-top: 15px;
+    }
+    .checkout-page .about-contact .mission {
+        padding-bottom: 38px;
+    }
+    .checkout-page .mission h2{
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .checkout-page .checkout-form .textCenter {
+        text-align: center;
+    }
+}
+

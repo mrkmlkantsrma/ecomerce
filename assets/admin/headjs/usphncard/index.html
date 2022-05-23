@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="keywords" content="credit card, jquery, javascript, form, payment, pay, form, npm, bower">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <label for="ccnum">Phone Number Format</label>
+        <h1>(xxx) xxx-xxxx:</h1>
+        <input type='text' id='yourphone' /> 
+      </header>
+
+
+      <section>
+        <div>
+          <span class="field">
+            <label for="ccnum">Card Number</label>
+            <input placeholder="---- ---- ---- ----" type="tel" size="19" name="ccnum" value="" id="ccnum">
+          </span>
+          <div><small>type: <strong id="ccnum-type">invalid</strong></small></div>
+        </div>
+
+        <div>
+          <span class="field">
+            <label for="expiry">Expiration</label>
+            <input placeholder="-- / --" size="7" type="tel" name="expiry" value="" id="expiry">
+          </span>
+
+          <span class="cvc field">
+            <label for="cvc">CVC</label>
+            <input placeholder="---"  size="4" type="tel" name="cvc" value="" id="cvc">
+          </span>
+        </div>
+
+        <div>
+          <button id="submit">Submit</button>
+          <div id="result" class="emoji"></div>
+        </div>
+
+        
+      </section>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="javascripts/payform.min.js"></script>
+    <script src="javascripts/form.js"></script>
+    <script src="javascripts/jquery-input-mask-phone-number.js"></script>
+    <script>
+
+      $(document).ready(function () {
+          $('#yourphone').usPhoneFormat({
+              format: '(xxx) xxx-xxxx',
+          });
+          
+          $('#yourphone2').usPhoneFormat();
+      });
+
+  </script>     
+
+  </body>
+</html>

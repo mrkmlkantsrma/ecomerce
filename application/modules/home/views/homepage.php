@@ -4,7 +4,7 @@
 </section>
 <!-- silder End -->
 <!-- about Us -->
-	<div id="about_us" class="about_section" style="background-image: url(assets/image/about_img.jpg);width: 100%;background-repeat: no-repeat; background-size: contain;">
+	<div id="about_us" class="about_section" style="background-image: url(assets/home/image/about_img.jpg);width: 100%;background-repeat: no-repeat; background-size: contain;">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-6">
@@ -21,7 +21,7 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="about_images wow slideInRight">
-						<!--<img src="assets/image/about_img.jpg" width="100%" alt="silder images" title="silder images">-->
+						<!--<img src="assets/home/image/about_img.jpg" width="100%" alt="silder images" title="silder images">-->
 					</div>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated ">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon1.png" alt="icon1">
+						<img src="assets/home/image/rashi/icon1.png" alt="icon1">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Aries</h4>
@@ -51,7 +51,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon2.png" alt="icon2">
+						<img src="assets/home/image/rashi/icon2.png" alt="icon2">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Taurus</h4>
@@ -62,7 +62,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon3.png" alt="icon3">
+						<img src="assets/home/image/rashi/icon3.png" alt="icon3">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Gemini</h2>
@@ -73,7 +73,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon4.png" alt="icon4">
+						<img src="assets/home/image/rashi/icon4.png" alt="icon4">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Cancer</h4>
@@ -84,7 +84,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon5.png" alt="icon5">
+						<img src="assets/home/image/rashi/icon5.png" alt="icon5">
 					</div>
 					<div class="sign_box_cont">
 						<h4>leo</h4>
@@ -95,7 +95,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon6.png" alt="icon6">
+						<img src="assets/home/image/rashi/icon6.png" alt="icon6">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Virgo</h4>
@@ -106,7 +106,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon7.png" alt="icon7">
+						<img src="assets/home/image/rashi/icon7.png" alt="icon7">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Libra</h4>
@@ -117,7 +117,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon8.png" alt="icon8">
+						<img src="assets/home/image/rashi/icon8.png" alt="icon8">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Scorpio</h4>
@@ -128,7 +128,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon9.png" alt="icon9">
+						<img src="assets/home/image/rashi/icon9.png" alt="icon9">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Sagittairus</h4>
@@ -139,7 +139,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon10.png" alt="icon10">
+						<img src="assets/home/image/rashi/icon10.png" alt="icon10">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Capricorn</h4>
@@ -150,7 +150,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon11.png" alt="icon11">
+						<img src="assets/home/image/rashi/icon11.png" alt="icon11">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Aquarius</h4>
@@ -161,7 +161,7 @@
 			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
 				<div class="rashi_sign_box wow fadeInDown animated">
 					<div class="sign_box_img">
-						<img src="assets/image/rashi/icon12.png" alt="icon12">
+						<img src="assets/home/image/rashi/icon12.png" alt="icon12">
 					</div>
 					<div class="sign_box_cont">
 						<h4>Pisces</h4>
@@ -189,7 +189,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								
 								<div class="sale"><span class="">Sale</span></div>
 								<div class="button-group">
@@ -226,7 +226,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-2.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-2.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								
 								<div class="sale"><span class="">Sale</span></div>
 								<div class="button-group">
@@ -263,7 +263,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-3.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-3.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								<div class="button-group">
 									<div class="inner">
 										<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -298,7 +298,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-4.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-4.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								<div class="button-group">
 									<div class="inner">
 										<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -333,7 +333,7 @@
 						<div class="col-sm-12">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									
 									<div class="sale"><span class="">Sale</span></div>
 									<div class="button-group">
@@ -432,7 +432,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-1.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								
 								<div class="sale"><span class="">Sale</span></div>
 								<div class="button-group">
@@ -469,7 +469,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-2.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-2.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								
 								<div class="sale"><span class="">Sale</span></div>
 								<div class="button-group">
@@ -506,7 +506,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-3.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-3.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								<div class="button-group">
 									<div class="inner">
 										<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -541,7 +541,7 @@
 					<div class="col-sm-12">
 						<div class="product-thumb">
 							<div class="image wow fadeInDown animated">
-								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-4.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+								<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-4.jpeg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 								<div class="button-group">
 									<div class="inner">
 										<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -576,7 +576,7 @@
 						<div class="col-sm-12">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/image/category/slider-1.jpeg.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href="single-products.html"><img class="wow fadeInDown animated" src="assets/home/image/category/slider-1.jpeg.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									
 									<div class="sale"><span class="">Sale</span></div>
 									<div class="button-group">
@@ -625,7 +625,7 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Kundli Dosha</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -634,7 +634,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated" ><a href="full_services_page.html">Personal Consultation</a></h4>
 						<p class="wow fadeInDown animated" >Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -643,7 +643,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Face Reading</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -652,7 +652,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Face Reading</a></h4>
 						<p class="wow fadeInDown animated" >Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -661,7 +661,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated"><a href="full_services_page.html">Kundli Dosha</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -670,7 +670,7 @@
 				
 				<div class="col-sm-4">
 					<div class="services_matter">
-						<img class="wow fadeInDown animated" src="assets/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
+						<img class="wow fadeInDown animated" src="assets/home/image/services/services2.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%">
 						<h4 class="wow fadeInDown animated" ><a href="full_services_page.html">Personal Consultation</a></h4>
 						<p class="wow fadeInDown animated">Contrary to popular belief, Lorem Ipsum is not simply random text</p>
 						<a href="full_services_page.html" class="btn wow fadeInDown animated">Read More</a>
@@ -694,7 +694,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/1.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/1.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -705,7 +705,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/2.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/2.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -716,7 +716,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/3.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/3.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -727,7 +727,7 @@
 						<div class="item">
 							<div class="col-sm-12">
 								<div class="testimonial_inner_matter">
-									<img src="assets/image/testimonial/4.jpg" class="wow fadeInDown animated">
+									<img src="assets/home/image/testimonial/4.jpg" class="wow fadeInDown animated">
 									<p class="wow fadeInDown animated">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 									<h5 class="wow fadeInDown animated">Shoko Mugikura</h5>
 									<h6 class="wow fadeInDown animated">Design Manager</h6>
@@ -754,7 +754,7 @@
 							<div class="col-sm-12">
 								<div class="blog_inner_matter">
 									<div class="image">
-										<a href=""><img src="assets/image/category/slider-1.jpeg" class="wow fadeInDown animated"></a>
+										<a href=""><img src="assets/home/image/category/slider-1.jpeg" class="wow fadeInDown animated"></a>
 										<div class="blog_date  wow fadeInDown animated">
 											<span>01-04-2020<span>
 										</div>
@@ -774,7 +774,7 @@
 							<div class="col-sm-12">
 								<div class="blog_inner_matter">
 									<div class="image">
-										<a href=""><img src="assets/image/category/slider-2.jpeg" class="wow fadeInDown animated"></a>
+										<a href=""><img src="assets/home/image/category/slider-2.jpeg" class="wow fadeInDown animated"></a>
 										<div class="blog_date  wow fadeInDown animated">
 											<span>01-04-2020<span>
 										</div>
@@ -794,7 +794,7 @@
 							<div class="col-sm-12">
 								<div class="blog_inner_matter">
 									<div class="image">
-										<a href=""><img src="assets/image/category/slider-3.jpeg" class="wow fadeInDown animated"></a>
+										<a href=""><img src="assets/home/image/category/slider-3.jpeg" class="wow fadeInDown animated"></a>
 										<div class="blog_date  wow fadeInDown animated">
 											<span>01-04-2020<span>
 										</div>
@@ -814,7 +814,7 @@
 							<div class="col-sm-12">
 								<div class="blog_inner_matter">
 									<div class="image">
-										<a href=""><img src="assets/image/category/slider-4.jpeg" class="wow fadeInDown animated"></a>
+										<a href=""><img src="assets/home/image/category/slider-4.jpeg" class="wow fadeInDown animated"></a>
 										<div class="blog_date  wow fadeInDown animated">
 											<span>01-04-2020<span>
 										</div>
