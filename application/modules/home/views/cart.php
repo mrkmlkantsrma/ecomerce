@@ -30,7 +30,7 @@
 						</thead>
 							<tbody>
 								<tr>
-									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/image/products/products_07.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Mineral Stone</a></td>
+									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/home/image/products/products_07.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Mineral Stone</a></td>
 									<td>$125.00</td>
 									<td>
 										<div class="table-cart-stepper">
@@ -40,7 +40,7 @@
 									<td>$125</td>
 								</tr>
 								<tr>
-									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/image/products/products_01.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Agate</a></td>
+									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/home/image/products/products_01.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Agate</a></td>
 									<td>$50.00</td>
 									<td>
 										<div class="table-cart-stepper">
@@ -51,7 +51,7 @@
 								</tr>
 								
 								<tr>
-									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/image/products/products_02.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Mineral Stone</a></td>
+									<td><a class="table-cart-figure" href="checkout.html"><img src="assets/home/image/products/products_02.png" alt="" width="146" height="132"></a><a class="table-cart-link" href="#">Natural Mineral Stone</a></td>
 									<td>$125.00</td>
 									<td>
 										<div class="table-cart-stepper">

@@ -42,7 +42,7 @@
 								<div class="">
 									<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										<div class="sale"><span class="">Sale</span></div>
 									</div>
 									<div class="caption ">
@@ -70,7 +70,7 @@
 								<div class="">
 									<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/products_07.png" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/products_07.png" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										<div class="sale"><span class="">Sale</span></div>
 									</div>
 									<div class="caption ">
@@ -98,7 +98,7 @@
 							<div class="">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-1.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										<div class="sale"><span class="">Sale</span></div>
 									</div>
 									<div class="caption ">
@@ -177,7 +177,7 @@
 						<div class="col-sm-4">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-3.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									
 									<div class="sale"><span class="">Sale</span></div>
 									<div class="button-group">
@@ -213,7 +213,7 @@
 						<div class="col-sm-4">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-4.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-4.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									
 									<div class="sale"><span class="">Sale</span></div>
 									<div class="button-group">
@@ -248,7 +248,7 @@
 						<div class="col-sm-4">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-5.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-5.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									<div class="button-group">
 										<div class="inner">
 											<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -281,7 +281,7 @@
 						<div class="col-sm-4">
 							<div class="product-thumb">
 								<div class="image wow fadeInDown animated">
-									<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-6.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+									<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-6.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 									<div class="button-group">
 										<div class="inner">
 											<button type="button" title="Quick View" class="button-quickview"><span>Quick View</span></button>
@@ -314,7 +314,7 @@
 							<div class="col-sm-4">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-7.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-7.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										
 										<div class="sale"><span class="">Sale</span></div>
 										<div class="button-group">
@@ -349,7 +349,7 @@
 							<div class="col-sm-4">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-8.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-8.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										
 										<div class="sale"><span class="">Sale</span></div>
 										<div class="button-group">
@@ -384,7 +384,7 @@
 							<div class="col-sm-4">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-9.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-9.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										
 										<div class="sale"><span class="">Sale</span></div>
 										<div class="button-group">
@@ -419,7 +419,7 @@
 							<div class="col-sm-4">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-11.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-11.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										
 										<div class="sale"><span class="">Sale</span></div>
 										<div class="button-group">
@@ -454,7 +454,7 @@
 							<div class="col-sm-4">
 								<div class="product-thumb">
 									<div class="image wow fadeInDown animated">
-										<a href=""><img class="wow fadeInDown animated" src="assets/image/products/product-10.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
+										<a href=""><img class="wow fadeInDown animated" src="assets/home/image/products/product-10.jpg" alt="Kundli Dosha" title="Kundli Dosha" width="100%"></a>
 										
 										<div class="sale"><span class="">Sale</span></div>
 										<div class="button-group">

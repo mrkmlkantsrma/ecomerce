@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="not_found">
 						<a href="index.html">
-							<img src="<?= base_url() ; ?>assets/image/logo/logo.png" alt="logo">
+							<img src="<?= base_url() ; ?>assets/home/image/logo/logo.png" alt="logo">
 						</a>
 						
 					  <h2>page not found</h2>

@@ -1,0 +1,45 @@
+		.scrollY-container , .scrollX-container{
+			position:relative;
+		}
+		.scrollY , .scrollX{
+			overflow:hidden;
+			position:relative;
+			transition-duration: 0.2s;
+
+		}
+		.scrollYbar{
+			position:absolute;
+			width:14px;
+			height:100%;
+			top:0;
+			right:0;
+		}
+		.scrollXbar{
+			position:absolute;
+			width:100%;
+			height:14px;
+			bottom:0;
+			left:0;
+		}
+		.scrollXbar:hover, .scrollYbar:hover{
+			background:rgba(0,0,0,0.4);
+		}
+		.scrollY-but{
+			position:absolute;
+			width:14px;
+			background:rgba(0,0,0,0.4);
+			right:0;
+			top:0;
+			border-radius:25%;
+		}
+		.scrollX-but{
+			position:absolute;
+			height:14px;
+			background:rgba(0,0,0,0.4);
+			bottom:0;
+			left:0;
+			border-radius:25%;
+		}
+		.scrollXbar:hover .scrollX-but, .scrollYbar:hover .scrollY-but{
+			background:rgba(0,0,0,0.8);
+		}

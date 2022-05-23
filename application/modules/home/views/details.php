@@ -23,7 +23,7 @@
 						<div class="col-sm-12">
 							<div class="blog_inner_matter">
 								<div class="image">
-									<a href=""><img src="assets/image/bg-banner.jpg" class="wow fadeInDown animated"></a>
+									<a href=""><img src="assets/home/image/bg-banner.jpg" class="wow fadeInDown animated"></a>
 								</div>
 								<div class="admin_and_comments wow fadeInDown animated">
 									<span class="blog_admin"><span><i class="fa fa-user-o"></i> Post By</span> <span><a href="">Admin</a></span></span>
@@ -45,7 +45,7 @@
 									<ol class="commentlist">
 										<li class="comment">
 											<div>
-												<img alt="" src="assets/image/member/member.png" class="avatar avatar-60 photo">
+												<img alt="" src="assets/home/image/member/member.png" class="avatar avatar-60 photo">
 												<div class="comment-text">
 													<div class="ratings">
 														<div class="rating-box">
@@ -65,7 +65,7 @@
 										
 										<li class="comment">
 										<div>
-											<img alt="" src="assets/image/member/member2.png" class="avatar avatar-60 photo">
+											<img alt="" src="assets/home/image/member/member2.png" class="avatar avatar-60 photo">
 											<div class="comment-text">
 												<div class="ratings">
 													<div class="rating-box">
@@ -139,7 +139,7 @@
 										<div class="col-sm-12">
 											<div class="blog_inner_matter">
 												<div class="image">
-													<a href=""><img src="assets/image/blog/1.jpg" class="wow fadeInDown animated"></a>
+													<a href=""><img src="assets/home/image/blog/1.jpg" class="wow fadeInDown animated"></a>
 													<div class="blog_date  wow fadeInDown animated">
 														<span>01-04-2020<span>
 													</div>
@@ -159,7 +159,7 @@
 										<div class="col-sm-12">
 											<div class="blog_inner_matter">
 												<div class="image">
-													<a href=""><img src="assets/image/blog/1.jpg" class="wow fadeInDown animated"></a>
+													<a href=""><img src="assets/home/image/blog/1.jpg" class="wow fadeInDown animated"></a>
 													<div class="blog_date  wow fadeInDown animated">
 														<span>01-04-2020<span>
 													</div>
@@ -179,7 +179,7 @@
 										<div class="col-sm-12">
 											<div class="blog_inner_matter">
 												<div class="image">
-													<a href=""><img src="assets/image/blog/1.jpg" class="wow fadeInDown animated"></a>
+													<a href=""><img src="assets/home/image/blog/1.jpg" class="wow fadeInDown animated"></a>
 													<div class="blog_date  wow fadeInDown animated">
 														<span>01-04-2020<span>
 													</div>
